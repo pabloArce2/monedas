@@ -12,10 +12,11 @@ function App() {
         </p>
         <FirstComponent/>
       </header>
-      <body>
+      <div class = "">
         <SecondComponent/>
-      </body>
+      </div>
     </div>
+    
   );
 }
 
